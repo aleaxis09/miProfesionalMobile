@@ -1,0 +1,65 @@
+body {
+  margin: 0px;
+}
+
+.indexContainer {
+  background-image: url("../sources/img/Fondo_inicio.jpg");
+}
+
+.candidatesContainer {
+  margin: 0px;
+  background-color: #ffffff;
+}
+
+.conditionTerms {
+  color: #ffffff;
+}
+.conditionTerms p {
+  text-align: center;
+  text-decoration: underline;
+}
+
+.searchProfButton {
+  background-color: #00D6CE !important;
+  color: #ffffff !important;
+}
+
+.searchAgain {
+  background-color: #4b7eb4;
+  color: #ffffff;
+  height: 50px;
+  margin: 0px;
+}
+.searchAgain p {
+  font-size: 1.125em;
+}
+
+.categoryContainer {
+  background-color: #006697;
+  color: #ffffff;
+  height: 50px;
+  margin: 0px;
+}
+.categoryContainer p {
+  font-size: 1.125em;
+}
+
+.vcenter {
+  display: inline-block;
+  vertical-align: middle;
+  float: none;
+}
+
+.pictureContainer {
+  margin-top: 45%;
+  height: 100px;
+  width: 100px;
+}
+.pictureContainer img {
+  border-radius: 70px;
+  box-shadow: 0px 5px 5px #888888;
+  width: 100%;
+  height: 100%;
+}
+
+/*# sourceMappingURL=styles.css.map */

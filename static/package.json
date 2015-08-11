@@ -1,0 +1,14 @@
+{
+  "name": "Mi-profesional",
+  "version": "1.0.0",
+  "description": "Mobile aplication for \"Mi profesional\" web page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexis",
+  "license": "GNU GPL",
+  "devDependencies": {
+    "grunt-contrib-sass": "^0.9.2"
+  }
+}
